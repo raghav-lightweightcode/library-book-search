@@ -8,6 +8,8 @@
  * Author URI: http://www.tatvasoftpvtltd.com/
  * Text Domain: library-book-search
  * Domain Path: /languages
+ * License: GPLv3 or later
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  *
  * @package Librarybooksearch
  */
