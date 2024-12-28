@@ -1,7 +1,9 @@
 === Library book search Plugin for WordPress -  Library Book Search ===
+Contributors: raghavchudasama
 Tags: Library management system, library book search, library book finder
-Requires at least: 4.5
-Requires PHP: 5.6
+Requires at least: 4.4
+Requires PHP: 5.4
+Tested up to: 6.7.1
 Stable tag: 1.0
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
