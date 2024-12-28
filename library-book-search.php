@@ -3,9 +3,8 @@
  * Plugin Name: Library Book Search
  * Description: Most Powerful Library Book Search plugin which helps you to find library books easily and in faster way
  * Version: 1.0
- * Plugin URI: http://www.librarysearchplugin.com/
- * Author: Tatvasoft pvt. ltd.
- * Author URI: http://www.tatvasoftpvtltd.com/
+ * Author: Raghav Chudasama
+ * Author URI: https://profiles.wordpress.org/raghavchudasama/
  * Text Domain: library-book-search
  * Domain Path: /languages
  * License: GPLv3 or later
